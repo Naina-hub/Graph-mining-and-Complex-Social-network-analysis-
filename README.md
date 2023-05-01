@@ -7,9 +7,13 @@ We can learn about hidden links, spot patterns and trends, generate personalised
 # About Dataset
 
 Size: 5838 rows and 12 columns
+
 Attributes: show_id, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description, type
+
 Source: Kaggle platform
+
 Format: Comma separated values(csv)
+
 Variable: Integer, categorical, string, mixed
 
 
